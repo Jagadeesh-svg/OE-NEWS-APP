@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "124444467035",
+    "project_id": "auth-59d4f",
+    "storage_bucket": "auth-59d4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124444467035:android:6ea846920372a757b0447e",
+        "android_client_info": {
+          "package_name": "com.example.OENews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124444467035-21m6pqls2q5vvnooskr69mf5h6qpgbph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS_hzMcZLMEicI7t9OSPDjS4UC7xfGA6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124444467035-21m6pqls2q5vvnooskr69mf5h6qpgbph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
