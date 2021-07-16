@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="productName" type="id" />
+    <item name="prodDesc" type="id" />
+    <item name="prodPrice" type="id" />
+    <item name="big_image" type="id" />
+    <item name="back2" type="id" />
+    <item name="qty" type="id" />
+    <item name="unit" type="id" />
+    <item name="textView8" type="id" />
+    <item name="cart" type="id" />
+</resources>
